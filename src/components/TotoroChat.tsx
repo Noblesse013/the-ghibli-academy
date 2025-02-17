@@ -105,7 +105,7 @@ export function TotoroChat({ isDarkMode, messages, setMessages }: TotoroChatProp
           <div className="bg-[#7c9b88] p-4 flex justify-between items-center">
             <div className="flex items-center space-x-2">
               <img 
-                src="https://images.unsplash.com/photo-1534353473418-4cfa6c56fd38?w=100&h=100&fit=crop" 
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKPpUrW9IfGJ9S5BCpNH5s-yRQfuYiLDblw4p3eU2TkLgdBLZeVoYt8dvn-ORQzJ2Wy8E&usqp=CAU" 
                 alt="Totoro"
                 className="w-8 h-8 rounded-full object-cover"
               />
