@@ -18,8 +18,8 @@ export function AuthModal({ isOpen, onClose, mode, onSubmit, isDarkMode }: AuthM
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     onSubmit(email, password);
-    setEmail('');
-    setPassword('');
+    setEmail('mhfiona1309@gmail.com');
+    setPassword('09#13');
   };
 
   return (
